@@ -1,0 +1,12 @@
+VERSION:1 SOURCE_TIMESTAMP:4E744EE7
+NODE:I LEVEL:0 LINE:1 "c:\cvavreval\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:2 "c:\cvavreval\inc\delay.h"
+NODE:M LEVEL:0 LINE:3 "ADC_VREF_TYPE"
+NODE:M LEVEL:0 LINE:5 "boton"
+NODE:C LEVEL:0 LINE:7 "tabla7segmentos -> RAM:????"
+NODE:C LEVEL:0 LINE:8 "letra -> RAM:????"
+NODE:V LEVEL:0 LINE:9 "far -> R4,R5"
+NODE:V LEVEL:0 LINE:10 "cn -> R6,R7"
+NODE:V LEVEL:0 LINE:11 "f -> R8,R9"
+NODE:V LEVEL:0 LINE:12 "btna -> R2.0"
+NODE:V LEVEL:0 LINE:13 "btnp -> R2.1"

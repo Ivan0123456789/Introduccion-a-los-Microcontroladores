@@ -1,0 +1,21 @@
+RAM Allocation [bytes]
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+tabla7segmentos                                                   0x00E0      10
+
+EEPROM Allocation [bytes]
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+i                                                                 R4,R5        2
+var                                                               R7           1
+var1                                                              R6           1
+var2                                                              R9           1
+
+FLASH Allocation [words]
+Function                                                          Address   Size
+--------------------------------------------------------------------------------
+main                                                              0x00052    128

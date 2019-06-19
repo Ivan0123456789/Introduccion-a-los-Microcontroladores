@@ -1,0 +1,20 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+tabla7segmentos                                                   0x00E0      10
+var3                                                              0x00EA       2
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+far                                                               R4,R5        2
+cn                                                                R6,R7        2
+f                                                                 R8,R9        2
+var                                                               R10,R11      2
+var2                                                              R12,R13      2
+btna                                                              R2.0      1bit
+btnp                                                              R2.1      1bit

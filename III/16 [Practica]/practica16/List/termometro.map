@@ -1,0 +1,29 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+tabla7segmentos                                                                   0x00E0      10
+letra                                                                             0x00EA       2
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+far                                                                               R4,R5        2
+cn                                                                                R7           1
+f                                                                                 R6           1
+unidades                                                                          R9           1
+decenas                                                                           R8           1
+centenas                                                                          R11          1
+uni                                                                               R10          1
+dec                                                                               R13          1
+cen                                                                               R12          1
+btna                                                                              R2.0      1bit
+btnp                                                                              R2.1      1bit
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+main                                                                              0x00067    167

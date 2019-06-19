@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"interrupciones.c" LINE:49
+ext_int0_isr DSTACK_USAGE:12 DSTACK_LEVEL:12 FILE:"interrupciones.c" LINE:30
